@@ -51,6 +51,7 @@ namespace Regex_n_LINQ {
         }
         static void PrintMatches(MatchCollection matches)
         {
+            //запись делаю тут
             StreamWriter output = new StreamWriter("output.txt");
             
             
